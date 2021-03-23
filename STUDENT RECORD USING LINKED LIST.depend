@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616419600 source:f:\intern tasks\student record using linked list\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
